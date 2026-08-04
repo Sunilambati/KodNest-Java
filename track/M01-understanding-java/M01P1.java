@@ -1,5 +1,5 @@
 
-public class Main {
+public class M01P1 {
 
     public static void main(String[] args) {
         // Display the student's learning track.
