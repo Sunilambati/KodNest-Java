@@ -7,7 +7,7 @@ public class Pgm3 {
         Scanner scan = new Scanner(System.in);
         int a[] = new int[5];
         System.out.println("Enter Array Elements: ");
-        for (int i = 0; i <= a.length10 - 1; i++) {
+        for (int i = 0; i <= a.length - 1; i++) {
             a[i] = scan.nextInt();
         }
         System.out.println("Array Elements are : ");
